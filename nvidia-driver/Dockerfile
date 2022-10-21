@@ -1,1 +1,1 @@
-FROM python:alpine3.6
+FROM gcr.io/google-containers/busybox
