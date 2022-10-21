@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
+FROM python:alpine3.6
