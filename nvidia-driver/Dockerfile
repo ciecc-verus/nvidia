@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/driver:450.80.02-centos7
+FROM gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
